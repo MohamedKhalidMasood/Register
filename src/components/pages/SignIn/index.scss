@@ -1,0 +1,15 @@
+.login-container {
+    color: red;
+    background-color: aqua;
+
+    .box1 {
+        .test1 {
+            color: red;
+        }
+    }
+    .box2 {
+        .test2 {
+            color: yellow;
+        }
+    }
+}

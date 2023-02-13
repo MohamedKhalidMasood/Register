@@ -1,17 +1,17 @@
-import NotFound from "../components/Includes/NotFound";
+//import NotFound from "../components/Includes/NotFound";
 
 //Components
-import Realestate from '../components/pages/Realestate'
+import SignIn from '../components/pages/SignIn'
 
 const routes = [
     {
         path: "/",
-        component: Realestate,
+      //  component: SignIn,
         protectedRoute: false,
     },
-    {
-        component: NotFound, // This should remain last
-    },
+   // {
+    //    component: NotFound, // This should remain last
+   // },
 ]
 
 

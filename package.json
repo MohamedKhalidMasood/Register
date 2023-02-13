@@ -1,8 +1,8 @@
 {
-  "name": "mern-boiler-plate",
+  "name": "react-base-code",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Mohamed Ismail",
+  "author": "ANWAARUL HAQUE",
   "license": "MIT",
   "scripts": {
     "client": "webpack-dev-server --config  ./webpack/webpack.dev.js --open",
